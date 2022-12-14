@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #5D534A;
+  background-color: #FFF5DA;
+  font-family: "Courgette", cursive;
+}
+
+.fondoBody {
+  background-color: #FFF5DA; 
+}
+
+.fondoAzul {
+  color: #FFF5DA;
+  background-color: #748DA6;
+}
+
+
+.fondoRosa{
+  color: #5D534A;
+  background-color: #f7dad9;
+}

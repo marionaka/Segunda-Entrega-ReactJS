@@ -1,0 +1,11 @@
+[
+    {"id":1, "nombre":"Libro", "descripcion":"Libro Crianza y Criadores", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Libro%20Logo.jpg", "precio":4000, "stock":10, "categoria":"papel"},
+    {"id":2, "nombre":"Ta-Te-Ti", "descripcion":"Ta-Te-Ti de Mickey en madera", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/juegos%20de%20madera.jpg", "precio":1500, "stock":10, "categoria":"madera"},
+    {"id":3, "nombre":"Remera", "descripcion":"Remera doble para pader e hijo", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Palo%20astilla.jpg", "precio":2500, "stock":10, "categoria":"tela"},
+    {"id":4, "nombre":"Almanaque", "descripcion":"Almanaque con motivos infantiles", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Almanaque.jpg", "precio":1800, "stock":10, "categoria":"papel"},
+    {"id":5, "nombre":"Autito", "descripcion":"Autito de madera didactico", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Autitos%20madera.jpg", "precio":2900, "stock":10, "categoria":"madera"},
+    {"id":6, "nombre":"Remeras", "descripcion":"Remeras para paderes h hijo", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Remera%20padre%20madre%20hijo.jpg", "precio":5000, "stock":10, "categoria":"tela"},
+    {"id":7, "nombre":"Planificador", "descripcion":"Planificador mensual", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Planificador.jpg", "precio":1000, "stock":8, "categoria":"papel"},
+    {"id":8, "nombre":"Juguete", "descripcion":"Juguete torres de hanoi de madera didactico", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Torre%20madera.jpg", "precio":3000, "stock":9, "categoria":"madera"},
+    {"id":9, "nombre":"Libros de cuentos", "descripcion":"Coleccion de libros de cuentos", "imagen":"https://marionaka.github.io/Proyecto-Final-JS/Media/Cuentos%20infantiles.jpg", "precio":600, "stock":10, "categoria":"papel"}
+]
